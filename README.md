@@ -6,7 +6,7 @@ This Repo was created for `Day_12_Task_events_update_page`
 
 # Description
 
-This repository contains a responsive events update form created with `HTML and Bootstrap`. The events update form is designed to input . It features a clean and user-friendly interface, making it easy for users to provide their input.
+This repository contains a responsive events update form created with `HTML and Bootstrap`. The events update form is designed to display available tickets and book tickets for different shows. It features a clean and user-friendly interface, making it easy for users to provide their input.
 
 # Features
 
@@ -16,4 +16,4 @@ This repository contains a responsive events update form created with `HTML and 
 
 **Deployed source code link👇**
 
-If you wanna try this application **[Survey Form]()**
+If you wanna try this application **[Events Update Page](https://events-update-page-manupriyan.netlify.app)**
